@@ -20,3 +20,5 @@ temperature = 25
 age, temperature = temperature, age
 print("Возраст =", age)
 print("Температура =", temperature)
+
+# Комментарий для фиксации в новом коммите

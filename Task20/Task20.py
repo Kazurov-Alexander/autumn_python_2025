@@ -31,3 +31,5 @@ with open("inverted_sort.txt", mode="w", encoding="utf-8") as file:
     for line in reversed(lines):
         file.write(line + "\n")
 
+        # Комментарий для фиксации в новом коммите
+

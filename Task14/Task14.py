@@ -52,3 +52,5 @@ for idx, val in enumerate(mass):
 #                between = dist - 1
 #                print(f"  Индексы: {idx_list[i]} и {idx_list[j]} — расстояние: {dist}, между ними: {between} индекс(ов)")
 
+# Комментарий для фиксации в новом коммите
+

@@ -20,3 +20,4 @@ with open("algoritm.csv", mode="w", encoding="utf-8", newline="") as file:
     for idx, name in enumerate(algoritm, start=1):
         writer.writerow([f"{idx})", name])
 
+# Комментарий для фиксации в новом коммите

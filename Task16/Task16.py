@@ -74,5 +74,7 @@ for user in users:
 for user in filtered_users:
     print(f"Пользователь: '{user['login']}' возраст {user['age']} года , группа \"{user['group']}\"")
 
+    # Комментарий для фиксации в новом коммите
+
 
 

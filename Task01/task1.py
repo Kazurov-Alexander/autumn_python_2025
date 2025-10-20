@@ -13,3 +13,5 @@ from asyncio.windows_events import NULL # для совместимости с W
 e = NULL
 #Вывести их типы.
 print (a, b, c, d)
+
+# Комментарий для фиксации в новом коммите

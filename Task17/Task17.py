@@ -19,7 +19,7 @@ online_users = all_users - offline_users
 # Выводим результат
 print("Пользователи онлайн:", online_users)
 
-
+# Комментарий для фиксации в новом коммите
 
 
 
