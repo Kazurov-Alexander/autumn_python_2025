@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\white\\OneDrive\\Documents\\\u0423\u0447\u0451\u0431\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Python\\Homework \u0026 Practice\\HomeWork\\lesson_1\\Task14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{888C38FE-4AF4-4DED-915F-18BBF88E66EB}|Task14.pyproj|C:\\Users\\white\\OneDrive\\Documents\\\u0423\u0447\u0451\u0431\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Python\\Homework \u0026 Practice\\HomeWork\\lesson_1\\Task14\\Task14.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{888C38FE-4AF4-4DED-915F-18BBF88E66EB}|Task14.pyproj|solutionrelative:Task14.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task14.py",
+              "DocumentMoniker": "C:\\Users\\white\\OneDrive\\Documents\\\u0423\u0447\u0451\u0431\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Python\\Homework \u0026 Practice\\HomeWork\\lesson_1\\Task14\\Task14.py",
+              "RelativeDocumentMoniker": "Task14.py",
+              "ToolTip": "C:\\Users\\white\\OneDrive\\Documents\\\u0423\u0447\u0451\u0431\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A Python\\Homework \u0026 Practice\\HomeWork\\lesson_1\\Task14\\Task14.py",
+              "RelativeToolTip": "Task14.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEZSURBVDhPrZMhjoRAEEU/G2QLJAJBJwgkFyAZNJpTYFBjCIKgJgiOgOQICA6ABNckiDYIJAkHqDW7G3rZySTM/uSLrup6XVVJa1w8CBcl3TvwBbhkLh70cSTatg3btqHr\u002BjEMwzDAGFNi31IAQgjUdQ0pJeI4BmMMbdtiGAbM84yqqo7Xgd\u002BAdV0RBAGiKEKSJEjTFOu6gnMOzjlM04TneccSdQf7vlNd1ySEoKIoqOs6CsPwNPvTHWzbhjzP4fs\u002BsizDOI643W4AAF3XUZYlHMc5lqgdSCmVFxhjNAwD9X1PQghqmubUgQKwLOvUJgByXffP3GmEZVmOxx9N0/Q0pwCu6H8BRHTyKykATdNOfqW3R9De\u002Bc4A8AnhJaveChMRqwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-10-08T10:33:13.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
