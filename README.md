@@ -26,5 +26,4 @@
 6. Отправить изменения на GitHub:
    git push origin master
 
-После выполнения этих шагов новые задачи появятся в ветке master на GitHub:
-https://github.com/Kazurov-Alexander/autumn_python_2025/tree/master
+После выполнения этих шагов новые задачи появятся в ветке master на GitHub.
